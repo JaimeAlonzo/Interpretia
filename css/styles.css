@@ -1,0 +1,120 @@
+body{
+text-align:center;
+}
+
+h1{
+color: #fff;
+}
+
+h2{
+font-size: 1.2rem;
+font-weight: bold;
+}
+
+p{
+color: #fff;
+}
+
+/*CONTAINER FLUID*/
+.container-fluid{
+ padding: 7% 15%;
+}
+
+/*NAVBAR*/
+
+.navbar{
+ padding:0.5% 15%;
+ background-color: #6C5CE7;
+ opacity: 50%;
+}
+
+.navbar-brand{
+font-weight:bold;
+font-size: 2rem;
+}
+
+
+.back-color{
+
+}
+
+.caro-img{
+width: 100%;
+height: 25rem;
+}
+
+.carousel-inner .container-fluid{
+padding: 0;
+}
+
+/*HELPFUL SITES*/
+
+
+.web-img{
+width:75px;
+height: 75px;
+margin-bottom: 10px;
+}
+
+.lls-img{
+width:170px;
+height:75px;
+margin-bottom: 10px;
+}
+
+.web-lnk{
+padding: 2%;
+}
+
+.web-lnk:hover{
+color: #FDCB6E;
+}
+
+/*NOTES*/
+
+#notes{
+background-color: #7B88FF;
+}
+
+#notes .container-fluid{
+ padding: 2% 2%;
+}
+
+.card-col{
+padding: 1% 1.5%;
+}
+
+.card{
+height: 626.8px;
+}
+
+/*GLOSSARY*/
+
+.gloss{
+width:100%;
+height:800px;
+}
+
+/*HOURS*/
+
+#hours{
+background-color: #6C5CE7;
+}
+
+#hours h1{
+ margin: 2rem;
+}
+
+#hours label{
+margin:0;
+}
+
+#hours .container-fluid{
+ padding: 2% 15% 5%;
+}
+
+.input{
+ border-radius: 15px;
+ background-color: #fff;
+ padding: 3% 1%;
+}
